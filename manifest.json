@@ -43,5 +43,10 @@
       "./scripts/core/client.js",
       "./scripts/extend/client.js"
     ]
-  }]
+  }],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "green-time@aydabir.com"
+    }
+  }
 }
